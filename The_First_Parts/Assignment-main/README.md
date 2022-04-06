@@ -1,2 +1,0 @@
-# Assignment
-Sample Assignment Test
